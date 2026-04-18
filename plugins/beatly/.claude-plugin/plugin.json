@@ -1,7 +1,7 @@
 {
   "name": "beatly",
-  "description": "Play a live, generative background soundtrack while Claude Code works. Mood follows what the agent is doing. Requires system-wide SuperCollider.",
-  "version": "0.6.3",
+  "description": "A procedurally generated soundtrack, composed live while Claude Code works. Every note is synthesized in real time and scored to what the agent is doing right now — tool calls, diffs, tests, blockers, breakthroughs. Not a playlist. Requires system-wide SuperCollider.",
+  "version": "0.6.4",
   "author": {
     "name": "Beatly"
   },
@@ -11,8 +11,10 @@
   "keywords": [
     "music",
     "soundtrack",
+    "generative",
+    "procedural",
     "supercollider",
     "audio",
-    "ambient"
+    "agents"
   ]
 }
