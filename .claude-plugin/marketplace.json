@@ -1,0 +1,23 @@
+{
+  "name": "beatly",
+  "owner": {
+    "name": "Beatly",
+    "email": "hi@beatly.dev"
+  },
+  "metadata": {
+    "description": "Live, generative background soundtrack for coding agents.",
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "beatly",
+      "source": "./beatly",
+      "description": "Play a live, generative background soundtrack while Claude Code works. Requires system-wide SuperCollider.",
+      "homepage": "https://beatly.dev",
+      "repository": "https://github.com/getbeatly/beatly",
+      "license": "MIT",
+      "keywords": ["music", "soundtrack", "supercollider", "audio", "ambient"],
+      "category": "productivity"
+    }
+  ]
+}
