@@ -1,7 +1,7 @@
 {
   "name": "beatly",
   "description": "Play a live, generative background soundtrack while Claude Code works. Mood follows what the agent is doing. Requires system-wide SuperCollider.",
-  "version": "0.6.2",
+  "version": "0.6.3",
   "author": {
     "name": "Beatly"
   },
