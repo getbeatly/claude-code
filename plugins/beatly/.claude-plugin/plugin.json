@@ -1,7 +1,7 @@
 {
   "name": "beatly",
   "description": "A procedurally generated soundtrack, composed live while Claude Code works. Every note is synthesized in real time and scored to what the agent is doing right now — tool calls, diffs, tests, blockers, breakthroughs. Not a playlist. Requires system-wide SuperCollider.",
-  "version": "0.6.4",
+  "version": "0.7.0",
   "author": {
     "name": "Beatly"
   },
